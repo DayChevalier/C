@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "triangle", "triangle\triangle.vcproj", "{CBEAC732-BA13-4DB1-892C-2D3E8DDBC3E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBEAC732-BA13-4DB1-892C-2D3E8DDBC3E4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBEAC732-BA13-4DB1-892C-2D3E8DDBC3E4}.Debug|Win32.Build.0 = Debug|Win32
+		{CBEAC732-BA13-4DB1-892C-2D3E8DDBC3E4}.Release|Win32.ActiveCfg = Release|Win32
+		{CBEAC732-BA13-4DB1-892C-2D3E8DDBC3E4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
